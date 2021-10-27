@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hello cc</title>
+    </head>
+    <body>    
+     <ul>
+      <li>マスカルポーネ </li>
+      <li>砂糖 </li>
+      <li> クッキー</li>
+      <li> コーヒー</li>
+      <li> ココアパウダー</li>
+     </ul>
+    
+     <ol>
+      <li>マスカルポーネと砂糖を混ぜる</li>
+      <li>クッキーをコーヒーに漬ける </li>
+      <li>カップに入れてココアを振る </li>
+     </ol>
+    
+     <dl>
+      <dt>時間</dt><dd>30分</dd>
+      <dt>金額</dt><dd>500円</dd>
+     </dl>
+    </body>
+</html>
