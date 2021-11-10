@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>stylehtml</title>
+        <style>
+            ♯no2{color:green;}
+        </style>
+    </head>
+    <body>  
+        <ul>
+             <li　style="color:red">style属性</li>
+             <li id="no2">style要素</li>
+             <li id="no3">styleファイル</li>
+        </ul>
+    </body>
+ </html>
